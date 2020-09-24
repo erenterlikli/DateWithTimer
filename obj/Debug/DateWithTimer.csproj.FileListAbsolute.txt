@@ -1,0 +1,10 @@
+C:\Users\Eren\source\repos\DateWithTimer\DateWithTimer\bin\Debug\DateWithTimer.exe.config
+C:\Users\Eren\source\repos\DateWithTimer\DateWithTimer\bin\Debug\DateWithTimer.exe
+C:\Users\Eren\source\repos\DateWithTimer\DateWithTimer\bin\Debug\DateWithTimer.pdb
+C:\Users\Eren\source\repos\DateWithTimer\DateWithTimer\obj\Debug\DateWithTimer.csprojAssemblyReference.cache
+C:\Users\Eren\source\repos\DateWithTimer\DateWithTimer\obj\Debug\DateWithTimer.Form1.resources
+C:\Users\Eren\source\repos\DateWithTimer\DateWithTimer\obj\Debug\DateWithTimer.Properties.Resources.resources
+C:\Users\Eren\source\repos\DateWithTimer\DateWithTimer\obj\Debug\DateWithTimer.csproj.GenerateResource.cache
+C:\Users\Eren\source\repos\DateWithTimer\DateWithTimer\obj\Debug\DateWithTimer.csproj.CoreCompileInputs.cache
+C:\Users\Eren\source\repos\DateWithTimer\DateWithTimer\obj\Debug\DateWithTimer.exe
+C:\Users\Eren\source\repos\DateWithTimer\DateWithTimer\obj\Debug\DateWithTimer.pdb
